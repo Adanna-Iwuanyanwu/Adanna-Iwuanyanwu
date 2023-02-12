@@ -2,17 +2,17 @@
 I am Adanna Iwuanyanwu. I am a data analyst with a growth mindset who loves fresh ideas. I am passionate about using my knowledge and skillsets to help companies turn data into actionable insights which will help improve the company's revenue and processes. 
 I am a philomath and inquisitive. If I am not learning to gain more knowledge on data-related topics, I am seeking knowledge in anything that interests me at that moment.
 
-- Currently:
+### Currently:
 -  I’m currently working on advancing skills
 -  I’m currently learning more on data-related studies 
 -  Ask me about data related questions
 -  Pronouns: She/Her
 -  Fun fact: I love chocolate, listening to music and watching movies and cartoons
 
-- I am open to:
+### I am open to:
 - Freelance and Data Analyst Role
 
-- Tools i use:
+### Tools i use:
 - Microsoft Excel
 - Microsoft Power BI
 - Postgresql
