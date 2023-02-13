@@ -3,8 +3,8 @@ I am a data analyst with a growth mindset who loves fresh ideas. I am passionate
 I am a philomath and inquisitive. If I am not learning to gain more knowledge on data-related topics, I am seeking knowledge in anything that interests me at that moment.
 
 ### Currently:
--  I’m working on advancing skills
--  I’m learning more on data-related studies 
+-  I’m working on advancing my skills
+-  I’m learning to know more about data 
 -  Ask me about data related questions
 -  Pronouns: She/Her
 -  Fun fact: I love chocolate, listening to music and watching movies and cartoons
