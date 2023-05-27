@@ -16,7 +16,7 @@ I am a philomath and inquisitive. If I am not learning to gain more knowledge on
 - Python
 
 ### I am open to:
-- Freelance and Data Analyst Role
+- Freelance Data Analyst Role
 
 <!--
 **Adanna-Iwuanyanwu/Adanna-Iwuanyanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
