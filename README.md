@@ -32,7 +32,7 @@ I am a philomath and inquisitive. If I am not learning to gain more knowledge on
 - 📫 How to reach me: email: iwuanyanwuadanna@gmail.com
                       LinkedIn: Adanna Iwuanyanwu
                       Twitter: Adanna_CI
-- 💼 I'm open for freelancing and data analyst role
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love chocolate, listening to music and watching movies and cartoons.
 -->
