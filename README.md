@@ -9,7 +9,7 @@ I am a philomath and inquisitive. If I am not learning to gain more knowledge on
 -  Pronouns: She/Her
 -  Fun fact: I love chocolate, listening to music and watching movies and cartoons
 
-### Tools i use:
+### Tools I Use:
 - Microsoft Excel
 - Microsoft Power BI
 - Postgresql
